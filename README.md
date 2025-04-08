@@ -1,2 +1,2 @@
 # insertion-selection-sort
-Swirf programing for patika
+Swift programing for patika
